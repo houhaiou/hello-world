@@ -1,2 +1,1 @@
-# hello-world
-测试学习
+this is a first program
